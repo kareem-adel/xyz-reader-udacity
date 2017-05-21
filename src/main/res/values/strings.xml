@@ -8,5 +8,9 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="the_connection_to_the_data_is_lost">The connection to the data is lost</string>
+    <string name="shared_successfully">The content was shared successfully</string>
+    <string name="not_shared_successfully">The content wasn\'t shared</string>
+    <string name="thank_you_for_sharing">Thank you for sharing !</string>
 
 </resources>
