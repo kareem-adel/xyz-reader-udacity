@@ -126,6 +126,7 @@
         android:layout_marginBottom="@dimen/fab_margin"
         android:layout_marginEnd="@dimen/fab_margin"
         android:contentDescription="@string/action_share"
+        android:elevation="6dp"
         android:src="@drawable/ic_share" />
 
 </android.support.design.widget.CoordinatorLayout>
